@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151999057443",
+    "project_id": "todoeventos1-3cc4b",
+    "storage_bucket": "todoeventos1-3cc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151999057443:android:1eeb2ecaa94c3b7b622b96",
+        "android_client_info": {
+          "package_name": "mi.brianp.todoeventos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOS9OlpcGkfRhlJ7q9E_y7BtvbtLUx8jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
